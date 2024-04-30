@@ -1,1 +1,10 @@
+// 1. Install Node.js, TypeScript and VS Code on your computer.
 
+Install the "visual Studio Code" text editor from this link:
+https://code.visualstudio.com/
+
+Install "Node js", the interpreter of "Javascript" programming language from this link:
+https://nodejs.org/en/
+
+Install programming language "Typescript" using the following link:
+https://www.typescriptlang.org/download
